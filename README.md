@@ -10,7 +10,7 @@ The **Last Man** is the last human existing; he was on the ISS when all humans d
 
 ## Download
 
-This game is still a prototype, you can download it from the [releases](https://github.com/KareemMAX/LastMan/releases).
+This game is still a prototype, you can download it from the [releases](https://github.com/KareemMAX/exovision/releases).
 
 ## Credits
 
